@@ -1,32 +1,50 @@
 {
 	"pump_1": {
 		"name": "Pump 1",
-		"pin": 17, 
-		"value": "gin"
+		"pin": 17,
+		"value": null,
+		"flowrate_per_minute": 100
 	},
 	"pump_2": {
 		"name": "Pump 2",
-		"pin": 27, 
-		"value": "tonic"
+		"pin": 27,
+		"value": null,
+		"flowrate_per_minute": 100
 	},
 	"pump_3": {
 		"name": "Pump 3",
-		"pin": 22, 
-		"value": null
+		"pin": 22,
+		"value": null,
+		"flowrate_per_minute": 100
 	},
 	"pump_4": {
 		"name": "Pump 4",
-		"pin": 23, 
-		"value": null
+		"pin": 23,
+		"value": null,
+		"flowrate_per_minute": 100
 	},
 	"pump_5": {
 		"name": "Pump 5",
-		"pin": 24, 
-		"value": null
+		"pin": 24,
+		"value": null,
+		"flowrate_per_minute": 100
 	},
 	"pump_6": {
 		"name": "Pump 6",
-		"pin": 25, 
-		"value": null
+		"pin": 25,
+		"value": null,
+		"flowrate_per_minute": 100
+	},
+	"pump_7": {
+		"name": "Pump 5",
+		"pin": 24,
+		"value": null,
+		"flowrate_per_minute": 100
+	},
+	"pump_8": {
+		"name": "Pump 6",
+		"pin": 25,
+		"value": null,
+		"flowrate_per_minute": 100
 	}
 }
